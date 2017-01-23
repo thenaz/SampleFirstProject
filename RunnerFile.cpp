@@ -11,7 +11,7 @@
 
 int main()
 {
-    FirstController app;
-    
+    FirstController * app = new FirstController();
+    app->start();
     return 0;
 }

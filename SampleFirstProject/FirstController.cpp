@@ -7,10 +7,11 @@
 //
 
 #include <iostream>
+#include "FirstController.h"
 
 using namespace std;
 
-void start()
+void FirstController :: start()
 {
-    cout << endl;
+    cout << "words go here" << endl;
 }
