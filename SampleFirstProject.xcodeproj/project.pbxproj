@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FE5F79A21E365FCD004A5DA6 /* RunnerFile.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE5F79A11E365FCD004A5DA6 /* RunnerFile.cpp */; };
+		FE5F79A41E3661C2004A5DA6 /* FirstController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE5F79A31E3661C2004A5DA6 /* FirstController.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		FE5F79971E365A53004A5DA6 /* SampleFirstProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SampleFirstProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE5F79A11E365FCD004A5DA6 /* RunnerFile.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RunnerFile.cpp; path = ../RunnerFile.cpp; sourceTree = "<group>"; };
+		FE5F79A31E3661C2004A5DA6 /* FirstController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FirstController.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				FE5F79A11E365FCD004A5DA6 /* RunnerFile.cpp */,
+				FE5F79A31E3661C2004A5DA6 /* FirstController.cpp */,
 			);
 			path = SampleFirstProject;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE5F79A41E3661C2004A5DA6 /* FirstController.cpp in Sources */,
 				FE5F79A21E365FCD004A5DA6 /* RunnerFile.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
