@@ -6,11 +6,12 @@
 //  Copyright © 2017 Nazir, Ammar. All rights reserved.
 //
 
-#include <stdio.h>
+#include "FirstController.h"
+
 
 int main()
 {
+    FirstController app;
     
-    
-    return 90;
+    return 0;
 }

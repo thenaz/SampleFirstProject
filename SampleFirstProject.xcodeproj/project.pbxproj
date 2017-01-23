@@ -27,6 +27,7 @@
 		FE5F79971E365A53004A5DA6 /* SampleFirstProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SampleFirstProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE5F79A11E365FCD004A5DA6 /* RunnerFile.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = RunnerFile.cpp; path = ../RunnerFile.cpp; sourceTree = "<group>"; };
 		FE5F79A31E3661C2004A5DA6 /* FirstController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FirstController.cpp; sourceTree = "<group>"; };
+		FE5F79A51E36644B004A5DA6 /* FirstController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 			children = (
 				FE5F79A11E365FCD004A5DA6 /* RunnerFile.cpp */,
 				FE5F79A31E3661C2004A5DA6 /* FirstController.cpp */,
+				FE5F79A51E36644B004A5DA6 /* FirstController.h */,
 			);
 			path = SampleFirstProject;
 			sourceTree = "<group>";

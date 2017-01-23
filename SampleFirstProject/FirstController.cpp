@@ -6,4 +6,11 @@
 //  Copyright © 2017 Nazir, Ammar. All rights reserved.
 //
 
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
+
+void start()
+{
+    cout << endl;
+}
